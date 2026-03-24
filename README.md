@@ -43,6 +43,8 @@ For a better learning experience, the AI assistant also knows the user's native 
 
 ## Data sources and AI methods
 
+The project relies on freely available and open data sources. These provide the foundation for training the language model, building the vocabulary database and enabling pronunciation training.
+
 | Data source | Description |
 |-------------| ----------- |
 | [The Language Bank of Finland (Kielipankki)](https://www.kielipankki.fi/language-bank/) | Finnish language corpora |
